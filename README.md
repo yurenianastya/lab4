@@ -1,1 +1,1 @@
-# lab5
+# A laptop class, 26 var 
